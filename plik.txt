@@ -1,0 +1,2 @@
+program do testow
+tutaj wszystko OK
